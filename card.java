@@ -8,7 +8,7 @@ public class card {
     public card(String type, String suit) {
         this.type = type;
         this.suit = suit;
-    }
+    } 
 
     public String getType() {
         return type;
