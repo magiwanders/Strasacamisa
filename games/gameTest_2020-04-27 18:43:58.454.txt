@@ -1,0 +1,300 @@
+
+Game 1
+Moves: 57
+
+Game 2
+Moves: 574
+
+Game 3
+Moves: 153
+
+Game 4
+Moves: 99
+
+Game 5
+Moves: 713
+
+Game 6
+Moves: 1038
+
+Game 7
+Moves: 230
+
+Game 8
+Moves: 476
+
+Game 9
+Moves: 308
+
+Game 10
+Moves: 312
+
+Game 11
+Moves: 168
+
+Game 12
+Moves: 623
+
+Game 13
+Moves: 323
+
+Game 14
+Moves: 87
+
+Game 15
+Moves: 206
+
+Game 16
+Moves: 659
+
+Game 17
+Moves: 247
+
+Game 18
+Moves: 118
+
+Game 19
+Moves: 271
+
+Game 20
+Moves: 152
+
+Game 21
+Moves: 332
+
+Game 22
+Moves: 108
+
+Game 23
+Moves: 60
+
+Game 24
+Moves: 373
+
+Game 25
+Moves: 581
+
+Game 26
+Moves: 373
+
+Game 27
+Moves: 93
+
+Game 28
+Moves: 269
+
+Game 29
+Moves: 223
+
+Game 30
+Moves: 625
+
+Game 31
+Moves: 467
+
+Game 32
+Moves: 126
+
+Game 33
+Moves: 160
+
+Game 34
+Moves: 52
+
+Game 35
+Moves: 849
+
+Game 36
+Moves: 74
+
+Game 37
+Moves: 235
+
+Game 38
+Moves: 603
+
+Game 39
+Moves: 85
+
+Game 40
+Moves: 203
+
+Game 41
+Moves: 185
+
+Game 42
+Moves: 446
+
+Game 43
+Moves: 197
+
+Game 44
+Moves: 121
+
+Game 45
+Moves: 42
+
+Game 46
+Moves: 172
+
+Game 47
+Moves: 94
+
+Game 48
+Moves: 252
+
+Game 49
+Moves: 248
+
+Game 50
+Moves: 68
+
+Game 51
+Moves: 195
+
+Game 52
+Moves: 698
+
+Game 53
+Moves: 428
+
+Game 54
+Moves: 209
+
+Game 55
+Moves: 231
+
+Game 56
+Moves: 181
+
+Game 57
+Moves: 531
+
+Game 58
+Moves: 393
+
+Game 59
+Moves: 442
+
+Game 60
+Moves: 629
+
+Game 61
+Moves: 628
+
+Game 62
+Moves: 85
+
+Game 63
+Moves: 277
+
+Game 64
+Moves: 437
+
+Game 65
+Moves: 111
+
+Game 66
+Moves: 263
+
+Game 67
+Moves: 244
+
+Game 68
+Moves: 2227
+
+Game 69
+Moves: 564
+
+Game 70
+Moves: 336
+
+Game 71
+Moves: 355
+
+Game 72
+Moves: 849
+
+Game 73
+Moves: 769
+
+Game 74
+Moves: 88
+
+Game 75
+Moves: 406
+
+Game 76
+Moves: 294
+
+Game 77
+Moves: 431
+
+Game 78
+Moves: 634
+
+Game 79
+Moves: 381
+
+Game 80
+Moves: 125
+
+Game 81
+Moves: 900
+
+Game 82
+Moves: 200
+
+Game 83
+Moves: 313
+
+Game 84
+Moves: 84
+
+Game 85
+Moves: 870
+
+Game 86
+Moves: 570
+
+Game 87
+Moves: 1400
+
+Game 88
+Moves: 65
+
+Game 89
+Moves: 741
+
+Game 90
+Moves: 981
+
+Game 91
+Moves: 176
+
+Game 92
+Moves: 337
+
+Game 93
+Moves: 414
+
+Game 94
+Moves: 208
+
+Game 95
+Moves: 750
+
+Game 96
+Moves: 226
+
+Game 97
+Moves: 204
+
+Game 98
+Moves: 234
+
+Game 99
+Moves: 425
+
+Game 100
+Moves: 689
